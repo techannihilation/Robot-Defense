@@ -170,6 +170,10 @@ local chickenTypes = {
   cdevastator   =  true, 
   monkeylord    =  true,
   irritator     =  true,
+  
+  --added middle boss
+  talon_independence = true,
+  
 }
 
 local defenders = { 
